@@ -2,10 +2,6 @@
 <h1 align="center">Henrique Muniz</h1>
 <h3 align="center">Computer Science Student at UNESP</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=henriquesilva&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me:

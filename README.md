@@ -1,5 +1,5 @@
 <!-- Banner ou imagem opcional -->
-<h1 align="center">Hi 👋, I'm Henrique Silva</h1>
+<h1 align="center">Henrique Muniz</h1>
 <h3 align="center">Computer Science Student at UNESP</h3>
 
 <p align="center">
@@ -9,18 +9,20 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 1st-year **Computer Science** student at UNESP (GPA: 9.9/10)
-- 🏆 Winner of the **Hackathon at UNESP’s Computer Science Week** in my first year
-- 💻 Interested in **Competitive Programming**, **Cybersecurity**, and **Software Development**
-- 📚 Member of **Cybersecurity Study Group** and **Competitive Programming Group**
-- 🚀 Experience in Python, C++ and C
-- 🌎 Already traveled to the US and practiced snowboard 🏂
+- 🎓 2nd-year **Computer Science** student at UNESP 
+- 🏆 Champion of the **Hackathon at SECCOMP 2024** (my first year)
+- 💻 Member of the **Cybersecurity Study Group** (1st year)
+- 📊 Part of the management team of **UNESP's Financial Market League**
+- 📱 Currently developing an **Assistive App for the Visually Impaired** using **Convolutional Neural Networks**
+- 🖥️ Teaching assistant for **Algorithms and Programming Techniques I & II**
+- 🏅 Participant in the **First Paulista Programming Marathon**
+- 🚀 Experience with **C, C++, Python, Java (OOP), Dart, JavaScript**
 
 ---
 
 ### 🔧 Languages & Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,javascript,git,github,vscode" />
 </p>
 
 ---
@@ -32,13 +34,3 @@
 </p>
 
 ---
-
-### 📫 Contact Me:
-<p>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>

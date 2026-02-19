@@ -39,13 +39,11 @@ with Flutter & Dart
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Henriquelms7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Henriquelms7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Henriquelms7&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Henriquelms7?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Henriquelms7?style=social)
 
 
 ---

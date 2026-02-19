@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 2nd-year **Computer Science** student at UNESP 
+- 🎓 3rd-year **Computer Science** student at UNESP 
 - 🏆 Champion of the **Hackathon at SECCOMP 2024** (my first year)
 - 💻 Member of the **Cybersecurity Study Group** (1st year)
 - 📊 Part of the management team of **UNESP's Financial Market League**
